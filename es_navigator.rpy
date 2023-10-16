@@ -5,7 +5,7 @@ init:
     $ persistent.CardsWon3 = True
 
     # uncomment to enable hentai:
-    $ persistent.hentai = True
+    # $ persistent.hentai = True
 
 
 label es_navigator:
